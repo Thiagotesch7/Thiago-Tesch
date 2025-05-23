@@ -37,4 +37,4 @@ Atualmente estou focado em:
 - GitHub: github.com/Thiagotesch7
 - LinkedIn: www.linkedin.com/in/thiago-tesch-746410367
 
-> “A prática é o caminho mais curto entre o conhecimento e a habilidade.
+ >“A prática é o caminho mais curto entre o conhecimento e a habilidade.
